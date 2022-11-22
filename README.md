@@ -21,4 +21,5 @@ The performance analysis of the car is based on the engine type, no of engine cy
 
 Technical Architecture:
 
+![200159996-7cb312a1-0abe-44b6-8760-d802e6517ea9](https://user-images.githubusercontent.com/113918000/203352372-536582e8-ce55-4b89-bef2-3da62923a43e.png)
 
